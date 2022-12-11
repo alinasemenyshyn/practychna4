@@ -281,57 +281,58 @@ def z():
 #
 #####
 """)
+print("Введіть слово:")
 word = input()
-for abc in word:
-  if abc == 'a':
+for text in word:
+  if text == 'a':
     a()
-  if abc == 'b':
+  if text == 'b':
     b()
-  if abc == 'c':
+  if text == 'c':
     c()
-  if abc == 'd':
+  if text == 'd':
     d()
-  if abc == 'e':
+  if text == 'e':
     e()
-  if abc == 'f':
+  if text == 'f':
     f()
-  if abc == 'g':
+  if text == 'g':
     g()
-  if abc == 'h':
+  if text == 'h':
     h()
-  if abc == 'i':
+  if text == 'i':
     i()
-  if abc == 'j':
+  if text == 'j':
     j()
-  if abc == 'k':
+  if text == 'k':
     k()
-  if abc == 'l':
+  if text == 'l':
     l()
-  if abc == 'm':
+  if text == 'm':
     m()
-  if abc == 'n':
+  if text == 'n':
     n()
-  if abc == 'o':
+  if text == 'o':
     o()
-  if abc == 'p':
+  if text == 'p':
     p()
-  if abc == 'q':
+  if text == 'q':
     q()
-  if abc == 'r':
+  if text == 'r':
     r()
-  if abc == 's':
+  if text == 's':
     s()
-  if abc == 't':
+  if text == 't':
     t()
-  if abc == 'u':
+  if text == 'u':
     u()
-  if abc == 'v':
+  if text == 'v':
     v()
-  if abc == 'w':
+  if text == 'w':
     w()
-  if abc == 'x':
+  if text == 'x':
     x()
-  if abc == 'y':
+  if text == 'y':
     y()
-  if abc == 'z':
+  if text == 'z':
     z()
